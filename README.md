@@ -1,4 +1,4 @@
-# command-dp
+# iterator-dp
 This is a very simple project to test the iterator design pattern.
 
 # installation
